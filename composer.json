@@ -1,0 +1,16 @@
+{
+    "name": "peter-the-great/blackboard-cranjob-api",
+    "description": "Blackboard-cranjob-API.",
+    "type": "project",
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "Peter-The-Great",
+            "email": "PjotrW15@Gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "catfan/medoo": "^2.1"
+    }
+}
